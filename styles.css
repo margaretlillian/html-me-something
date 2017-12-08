@@ -1,4 +1,5 @@
 body {background: #fff;
+    color: #444;
 font: 1em "century gothic", verdana, sans-serif;
 margin: 0;
 padding:0;}
@@ -31,10 +32,12 @@ color: #fdd;
 margin:0;
 padding: 0;}
 
-footer {padding: 10px 440px 10px 10px;
+footer {padding: 10px;
 background: #f8f8f8;}
 
 header h2 {font: italic 2em georgia, serif;}
+
+acronym {cursor: help;}
 
 #trail-list{text-align:center;
 background: #edd;
