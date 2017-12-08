@@ -9,7 +9,7 @@ text-decoration: none;}
 img {max-width: 80%;
 display: block;
 margin: 0 auto;
-border: 2px solid #c0c0c0;}
+border: 2px solid #006;}
 
 main {
 }
@@ -47,9 +47,9 @@ padding: 0 25px;}
 #reviews {width: 80%;
     margin: 0 auto;}
 
-.trail h2 {/*text-align: left;*/
+.trail h2 {text-align: left;
     font-size: 3.5em;
 font-weight: lighter;
-color: #666;
+color: #558;
 border-bottom: 1px solid #666; }
 .bicycle {}
