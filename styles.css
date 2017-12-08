@@ -1,0 +1,55 @@
+body {background: #fff;
+font: 1em "century gothic", verdana, sans-serif;
+margin: 0;
+padding:0;}
+
+a {color: #782323;
+text-decoration: none;}
+
+img {max-width: 80%;
+display: block;
+margin: 0 auto;
+border: 2px solid #c0c0c0;}
+
+main {
+}
+
+
+h1 {font: 3em georgia, serif;
+font-weight: regular;
+text-align: center;
+margin-bottom: 0;
+padding-bottom: 0;}
+
+h2 {text-align: center;}
+
+ul {list-style: none;}
+
+header {background: #000 url('trailimg.jpg') no-repeat center -1000px;
+border: 5px solid #000;
+color: #fdd;
+margin:0;
+padding: 0;}
+
+header h2 {font: italic 2em georgia, serif;}
+
+#trail-list{text-align:center;
+background: #edd;
+border-bottom: 1px solid #000;
+margin:0;}
+
+#trail-list ul {padding: 15px;
+margin:0;}
+
+#trail-list li {display: inline;
+padding: 0 25px;}
+
+#reviews {width: 80%;
+    margin: 0 auto;}
+
+.trail h2 {/*text-align: left;*/
+    font-size: 3.5em;
+font-weight: lighter;
+color: #666;
+border-bottom: 1px solid #666; }
+.bicycle {}
