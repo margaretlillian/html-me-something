@@ -31,6 +31,9 @@ color: #fdd;
 margin:0;
 padding: 0;}
 
+footer {padding: 10px 440px 10px 10px;
+background: #f8f8f8;}
+
 header h2 {font: italic 2em georgia, serif;}
 
 #trail-list{text-align:center;
@@ -51,5 +54,5 @@ padding: 0 25px;}
     font-size: 3.5em;
 font-weight: lighter;
 color: #558;
-border-bottom: 1px solid #666; }
+border-bottom: 2px solid #666; }
 .bicycle {}
