@@ -70,5 +70,6 @@ h1, .trail h2 {font-size: 2em;}
 header h2 {font-size: 1.25em;}
 
 #trail-list li {display:block;
-padding-bottom: 12px;}
+padding-bottom: 12px;
+font-size: 0.75em;}
 }
