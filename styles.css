@@ -62,7 +62,7 @@ font-weight: lighter;
 color: #558;
 border-bottom: 2px solid #666; }
 
-@media only screen and (max-device-width: 700px) {
+@media only screen and (max-device-width: 700px) and (orientation:portrait) {
 p, #trail-list li{
 font-size: 2em;}
 
