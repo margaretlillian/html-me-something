@@ -1,10 +1,10 @@
-body {background: #fff;
+body {background: #f5f5f5;
     color: #444;
 font: 1em "century gothic", verdana, sans-serif;
 margin: 0;
 padding:0;}
 
-a {color: #5f5568;
+a {color: #ba524e;
 text-decoration: none;}
 
 img {max-width: 80%;
@@ -17,10 +17,10 @@ main {
 
 
 h1 {font: 3em georgia, serif;
-font-weight: regular;
 text-align: center;
-margin-bottom: 0;
-padding-bottom: 0;}
+margin: 0;
+padding: 10px;
+}
 
 h2 {text-align: center;}
 
@@ -40,12 +40,15 @@ header h2 {font: italic 2em georgia, serif;}
 acronym {cursor: help;}
 
 #trail-list{text-align:center;
-background: #eeedef;
+background: #111;
+opacity: 0.6;
+border-top: 1px solid #000;
 border-bottom: 1px solid #000;
 margin:0;}
 
-#trail-list ul {padding: 15px;
+#trail-list ul {padding: 10px;
 margin:0;}
+
 
 #trail-list li {display: inline;
 padding: 0 25px;}
@@ -58,4 +61,11 @@ padding: 0 25px;}
 font-weight: lighter;
 color: #558;
 border-bottom: 2px solid #666; }
-.bicycle {}
+
+@media only screen and (max-width: 600px) {
+p, #trail-list li{
+font-size: 2em;}
+
+#trail-list li {display:block;
+padding-bottom: 12px;}
+}
